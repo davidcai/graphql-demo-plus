@@ -1,0 +1,12 @@
+[
+  {
+    "id":"1",
+    "type": "PRETAX",
+    "amountDollars": "150.00"
+  },
+  {
+    "id":"2",
+    "type": "AFTERTAX",
+    "amountDollars": "100.00"
+  }
+]

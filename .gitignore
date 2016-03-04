@@ -1,0 +1,6 @@
+/.idea
+/dist
+*.iml
+/node_modules
+graphiql.js
+graphiql.css

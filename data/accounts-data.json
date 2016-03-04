@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "schwab_account"
+  },
+  {
+    "id": "2",
+    "name": "fidelity_account"
+  },
+  {
+    "id": "3",
+    "name": "vanguard_account"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "FUND_A",
+    "balance": "100"
+  },
+  {
+    "id": "2",
+    "name": "FUND_B",
+    "balance": "200"
+  },
+  {
+    "id": "3",
+    "name": "FUND_C",
+    "balance": "300"
+  }
+]

@@ -1,0 +1,9 @@
+#!/bin/sh
+
+rm -rf dist/ && mkdir -p dist/ &&
+# babel server.js --optional runtime -o dist/server.js &&
+# cp node_modules/graphiql/graphiql.js dist/graphiql.js &&
+# cp node_modules/graphiql/graphiql.css dist/graphiql.css &&
+cp node_modules/graphiql/graphiql.js ./graphiql.js &&
+cp node_modules/graphiql/graphiql.css ./graphiql.css
+# cat index.html > dist/index.html
