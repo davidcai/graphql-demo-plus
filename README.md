@@ -30,8 +30,18 @@ Open a browser at: http://localhost:8080
 
 Create a query like...
 
+```
 {
   user {
     name
+    profile {
+      uiPreference
+      contactViaEmail
+      contactViaSMS
+    }
+    accounts {
+      id
+    }
   }
 }
+```
